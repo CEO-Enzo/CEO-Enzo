@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CEO-Enzo
 - 👀 I’m interested in computing
 - 🌱 I’m currently learning computer documentary
-- 💞️ I’m looking to collaborate on RitaServer
+- 💞️ I’m looking to collaborate on NoxServer
 - 📫 How to reach me mail.rita.server@gmail.com
 
 <!---
