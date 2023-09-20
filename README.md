@@ -2,7 +2,7 @@
 - 👀 I’m interested in computing
 - 🌱 I’m currently learning computer documentary
 - 💞️ I’m looking to collaborate on NoxServer
-- 📫 How to reach me mail.rita.server@gmail.com
+- 📫 How to reach me enzo.cabrita@orange.fr
 
 <!---
 CEO-Enzo/CEO-Enzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
